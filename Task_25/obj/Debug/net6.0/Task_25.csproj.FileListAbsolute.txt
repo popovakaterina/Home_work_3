@@ -1,0 +1,15 @@
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\bin\Debug\net6.0\Task_25.exe
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\bin\Debug\net6.0\Task_25.deps.json
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\bin\Debug\net6.0\Task_25.runtimeconfig.json
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\bin\Debug\net6.0\Task_25.dll
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\bin\Debug\net6.0\Task_25.pdb
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\obj\Debug\net6.0\Task_25.csproj.AssemblyReference.cache
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\obj\Debug\net6.0\Task_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\obj\Debug\net6.0\Task_25.AssemblyInfoInputs.cache
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\obj\Debug\net6.0\Task_25.AssemblyInfo.cs
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\obj\Debug\net6.0\Task_25.csproj.CoreCompileInputs.cache
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\obj\Debug\net6.0\Task_25.dll
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\obj\Debug\net6.0\refint\Task_25.dll
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\obj\Debug\net6.0\Task_25.pdb
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\obj\Debug\net6.0\Task_25.genruntimeconfig.cache
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Домашняя работа 3\Task_25\obj\Debug\net6.0\ref\Task_25.dll
