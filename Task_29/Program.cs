@@ -4,7 +4,7 @@ static int [] CreateArray (int number) // Ввод массива по элем�
     int [] array = new int [number];
     for (int i = 0; i< array.Length; i++)
     {
-        Console.WriteLine("Введите элемент массива: ");
+        Console.Write("Введите элемент массива: ");
         array[i]=Convert.ToInt32(Console.ReadLine());
     }
     return array; 
@@ -13,10 +13,10 @@ static void WriteArray (int [] array) // Вывод массива
 {
     for (int i = 0; i< array.Length; i++)
     {
-        Console.Write(array[i]+ " ");
+        Console.Write( array[i]+ " ");
     }
 }
-Console.WriteLine("Введите длину массива: ");
+Console.Write("Введите длину массива: ");
 int lenght = Convert.ToInt32(Console.ReadLine());
 int[] array = CreateArray(lenght);
 WriteArray(array);
